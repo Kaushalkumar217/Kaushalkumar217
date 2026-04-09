@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Kaushl Kumar<br><br>🎓 B.Tech Student (CSE - AI & ML)<br>💡 Passionate about Data Science, AI & Machine Learning<br>🐍 Python | 📊 Data Analysis | 🤖 Machine Learning | 💻 C++<br>🌱 Always learning new technologies and improving my skills<br>📫 Let's connect and build something amazing!<br>
+## 👋 Hi, I'm Kaushal Kumar<br><br>🎓 B.Tech Student (CSE - AI & ML)<br>💡 Passionate about Data Science, AI & Machine Learning<br>🐍 Python | 📊 Data Analysis | 🤖 Machine Learning | 💻 C++<br>🌱 Always learning new technologies and improving my skills<br>📫 Let's connect and build something amazing!<br>
 
 
 ## 🌐 Socials:
